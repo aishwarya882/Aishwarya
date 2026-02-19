@@ -31,7 +31,7 @@ I am **Aishwarya S Handi**, Welcome to my GitHub — a space where innovation me
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/aishwarya-s-h-b8b42831b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/aishwarya-s-h-b8b42831b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - 📧 Email: aishwaryash308@gmail.com
 
 ---
