@@ -19,7 +19,7 @@ I am **Aishwarya S Handi**, Welcome to my GitHub — a space where innovation me
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Java(basics)](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
+![Java(basics)](https://img.shields.io/badge/Java(basics)-007396?style=for-the-badge&logo=java)
 
 ### 🌐 Web Technologies
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
